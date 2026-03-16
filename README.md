@@ -13,9 +13,12 @@ The goal of this project is to demonstrate a **scalable, modular and modern Andr
 
 # Screenshots
 ![Login Screen](screenshots/S1.png)
-![Login Screen](screenshots/S2.png)
-![Login Screen](screenshots/S3.png)
-![Login Screen](screenshots/S4.png)
+
+[//]: # (![Login Screen]&#40;screenshots/S2.png&#41;)
+
+[//]: # (![Login Screen]&#40;screenshots/S3.png&#41;)
+
+[//]: # (![Login Screen]&#40;screenshots/S4.png&#41;)
 
 
 
