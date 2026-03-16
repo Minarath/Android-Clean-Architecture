@@ -5,6 +5,21 @@ The goal of this project is to demonstrate a **scalable, modular and modern Andr
 
 ---
 
+# Login Info
+* username: emilys
+* password: emilyspass
+
+
+
+# Screenshots
+![Login Screen](screenshots/S1.png)
+![Login Screen](screenshots/S2.png)
+![Login Screen](screenshots/S3.png)
+![Login Screen](screenshots/S4.png)
+
+
+
+
 # Features
 
 * Modern UI built with **Jetpack Compose**
